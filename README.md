@@ -16,8 +16,9 @@ Print both values and vectors,then end the program.
 ## PROGRAM:
 ```PYTHON
 #Program to find the eigen values and eigen vectors.
-#Developed by: tejaswini
-#RegisterNumber:22004187
+#Developed by: M THEJESWARAN
+#RegisterNumber: 212223240168
+
 import numpy as np
 a=np.array([[4,2],[2,4]])
 values,vector=np.linalg.eig(a)
